@@ -39,16 +39,28 @@ results/
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 Run the benchmark:
-
+```bash
 python src/benchmark.py
-
+```
 Results will be saved to:
-
+```
 results/benchmark_results.csv
+```
+Generate a comparison plot:
 
+```bash
+python src/plot_results.py
+```
+
+The visualization will be saved to:
+
+```
+results/benchmark_plot.png
+```
 
 ## Components
 
