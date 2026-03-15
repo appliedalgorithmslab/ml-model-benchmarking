@@ -1,0 +1,9 @@
+dataset: breast_cancer
+
+models:
+  - logistic_regression
+  - random_forest
+  - svm
+
+cv_folds: 5
+random_state: 42
