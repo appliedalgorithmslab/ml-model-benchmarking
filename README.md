@@ -35,6 +35,21 @@ experiments/
 results/
 ```   
 
+## Quick Start
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the benchmark:
+
+python src/benchmark.py
+
+Results will be saved to:
+
+results/benchmark_results.csv
+
+
 ## Components
 
 models.py
@@ -50,9 +65,11 @@ benchmark.py
 Runs the full benchmarking pipeline.
 
 ## Example Output
+```
 logistic_regression: 0.9732
 random_forest: 0.9651
 svm: 0.9714
+```
 
 ## Notes
 
