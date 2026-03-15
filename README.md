@@ -27,6 +27,12 @@ src/
     data_loader.py
     evaluate.py
     benchmark.py
+    
+experiments/
+    benchmark_config.yaml
+
+results/
+   
 
 ## Components
 
