@@ -23,13 +23,13 @@ The project is designed as a demonstration of machine learning engineering patte
 
 ## Repository Structure
 src/
-    models.py
-    data_loader.py
-    evaluate.py
-    benchmark.py
+        models.py
+        data_loader.py
+        evaluate.py
+        benchmark.py
     
 experiments/
-    benchmark_config.yaml
+        benchmark_config.yaml
 
 results/
    
