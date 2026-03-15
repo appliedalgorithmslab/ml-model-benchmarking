@@ -42,12 +42,12 @@ Provides utilities for evaluating model performance using cross-validation.
 benchmark.py
 Runs the full benchmarking pipeline.
 
-##Example Output
+## Example Output
 logistic_regression: 0.9732
 random_forest: 0.9651
 svm: 0.9714
 
-##Notes
+## Notes
 
 This repository contains demonstration implementations designed to illustrate machine learning engineering patterns using public datasets.
 Proprietary algorithms and production systems are not included.
